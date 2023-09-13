@@ -15,3 +15,8 @@
 ## ⛏ Maintenance Mode
 
 * [🤞 Edit message](maintenance-mode/edit-message.md)
+
+## 🧾 Commands
+
+* [🧊 Minecraft](commands/minecraft.md)
+* [🤖 Discord](commands/discord.md)
