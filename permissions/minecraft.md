@@ -16,3 +16,5 @@
 </code></pre>              | Command: /alert                            |
 | <pre><code>staffproplus.spp
 </code></pre>               | Command: /spp                              |
+| <pre><code>staffproplus.maintenance
+</code></pre>       | Command: /maintenance                      |

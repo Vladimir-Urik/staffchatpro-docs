@@ -11,5 +11,11 @@
 </code></pre></td><td>Displays team members online.</td><td>true</td></tr><tr><td>spp (help)</td><td><pre><code>staffproplus.spp
 </code></pre></td><td>Displays the staffproplus help message.</td><td>true</td></tr><tr><td>spp debug</td><td><pre><code>staffproplus.spp
 </code></pre></td><td>Displays basic info about the plugin.</td><td>true</td></tr><tr><td>spp server &#x3C;name></td><td><pre><code>staffproplus.spp
-</code></pre></td><td>Displays info about a specific server on the network.</td><td>true</td></tr></tbody></table>
+</code></pre></td><td>Displays info about a specific server on the network.</td><td>true</td></tr><tr><td>spp support</td><td><pre><code>staffproplus.spp
+</code></pre></td><td>Displays a link to the support server.</td><td>true</td></tr><tr><td>maintenance (help)</td><td><pre><code>staffproplus.maintenance
+</code></pre></td><td>Displays all available commands for maintenance mode.</td><td>true</td></tr><tr><td>maintenance enable</td><td><pre><code>staffproplus.maintenance
+</code></pre></td><td>Enable maintenance mode.</td><td>true</td></tr><tr><td>maintenance disable</td><td><pre><code>staffproplus.maintenance
+</code></pre></td><td>Disable maintenance mode.</td><td>true</td></tr><tr><td>maintenance add &#x3C;player></td><td><pre><code>staffproplus.maintenance
+</code></pre></td><td>Adds the player to the whitelist.</td><td>true</td></tr><tr><td>maintenance remove &#x3C;player></td><td><pre><code>staffproplus.maintenance
+</code></pre></td><td>Removes the player from the whitelist.</td><td>true</td></tr></tbody></table>
 
