@@ -18,3 +18,11 @@
 </code></pre>               | Command: /spp                              |
 | <pre><code>staffproplus.maintenance
 </code></pre>       | Command: /maintenance                      |
+| <pre><code>staffproplus.msg
+</code></pre>               | Command: /msg                              |
+| <pre><code>staffproplus.reply
+</code></pre>             | Command: /reply                            |
+| <pre><code>staffproplus.spy
+</code></pre>               | Command: /spy                              |
+| <pre><code>staffproplus.report
+</code></pre>            | Command: /report                           |
