@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🥑 StaffProPlus Wiki](README.md)
+* [🖼 Gallery](gallery.md)
 * [🛂 Support Discord](https://discord.gg/UC9hHaUdF7)
 * [🛒 BuiltByBit](https://builtbybit.com/resources/31430/)
 * [📝 Editor Demo](https://spp.gggedr.lol/demo)
