@@ -22,5 +22,6 @@
 </code></pre></td><td>Removes the player from the whitelist.</td><td>true</td></tr><tr><td>msg &#x3C;player> &#x3C;message></td><td><pre><code>staffproplus.msg
 </code></pre></td><td>Sends a private message to the player.</td><td>true</td></tr><tr><td>reply &#x3C;message></td><td><pre><code>staffproplus.reply
 </code></pre></td><td>Replies to the last private message.</td><td>true</td></tr><tr><td>spy</td><td><pre><code>staffproplus.spy
-</code></pre></td><td>Enables/Disables spying</td><td>true</td></tr></tbody></table>
+</code></pre></td><td>Enables/Disables spying</td><td>true</td></tr><tr><td>faq</td><td><pre><code>staffproplus.faq
+</code></pre></td><td>Sends FAQ</td><td>true</td></tr></tbody></table>
 

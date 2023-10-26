@@ -26,6 +26,8 @@
 
 <figure><img src="https://i.imgur.com/5tswm9X.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="https://i.imgur.com/Rn86E14.png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="https://i.imgur.com/md8VCw7.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://i.imgur.com/7jrQv74.png" alt=""><figcaption></figcaption></figure>

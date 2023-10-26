@@ -4,7 +4,7 @@ description: All information about staffproplus plugin and its features.
 
 # 🥑 StaffProPlus Wiki
 
-**Latest Version: v2.0**
+**Latest Version: v2.1**
 
 ## All Features:
 
@@ -24,6 +24,8 @@ description: All information about staffproplus plugin and its features.
 * Docs
 * Premium Fast Support
 * Custom Brand
+* Staff Join/Leave Messages
+* FAQ
 
 **Important links:**
 

@@ -26,3 +26,6 @@
 </code></pre>               | Command: /spy                              |
 | <pre><code>staffproplus.report
 </code></pre>            | Command: /report                           |
+| <pre><code>staffproplus.faq
+</code></pre>               | Command: /faq                              |
+
